@@ -296,6 +296,8 @@ btn-color-2:hover {
     border: rgb(53, 53, 53) 0.1rem solid;
     border-color: rgb(163, 163, 163);
     text-align: center;
+    max-width: 500px;
+    margin: auto;
 }
 
 .section-container {
@@ -363,6 +365,10 @@ article .icon {
     border-radius: 2rem;
     width: 90%;
     height: 90%;
+    margin: auto;
+    display: block;
+    max-width: 300px;
+    max-height: 400px;
 }
 
 .project-title {
